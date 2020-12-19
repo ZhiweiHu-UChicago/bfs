@@ -1,18 +1,5 @@
 ### 使用BFS（广度优先搜索）解迷宫类问题
-
-在这学期的Computing for Finance in Python上有这么一道算法题：
-
-![Screen Shot 2020-12-19 at 12.48.09 PM](/Users/huzhiwei/Library/Application Support/typora-user-images/Screen Shot 2020-12-19 at 12.48.09 PM.png)
-
-简单来说，输入一个list of lists，对于每一个位置，用0表示可经过的方块，用2表示金币，用1表示没有办法经过的blocks。要在获取到所有金币的情况下，找出从B(0,0) $\rightarrow$ A的最短路径。如果这个路径不存在，则返回-1.
-
-##### **Sample Case 1**
-
-![Screen Shot 2020-12-19 at 12.49.13 PM](/Users/huzhiwei/Library/Application Support/typora-user-images/Screen Shot 2020-12-19 at 12.49.13 PM.png)
-
-##### **Sample Case 2**
-
-![Screen Shot 2020-12-19 at 12.49.43 PM](/Users/huzhiwei/Library/Application Support/typora-user-images/Screen Shot 2020-12-19 at 12.49.43 PM.png)
+### Bob Navigate Maze
 
 ### ==Solutions 1：==
 
