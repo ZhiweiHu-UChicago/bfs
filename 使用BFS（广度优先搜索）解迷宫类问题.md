@@ -1,7 +1,7 @@
 ### 使用BFS（广度优先搜索）解迷宫类问题
 ### Bob Navigate Maze
 
-### ==Solutions 1：==
+### Solutions 1:
 
 （感谢同专业的**许卓**大佬提供的代码，我的代码只能通过一半的testcase，匿了）
 
@@ -111,7 +111,7 @@ def minMoves(maze, x, y):
     return res
 ```
 
-### ==**Solution 2**==
+### **Solution 2**
 
 上面代码的第二部分，利用二进制串进行动态规划可能有些复杂，这里提供另一种方法，同样感谢同专业的**Vera Chim**
 
